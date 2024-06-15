@@ -50,10 +50,11 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=El-pabs&count_private=true&show_icons=true&theme=dark&hide=stars,prs,issues&count_private=true&include_all_commits=true&rank_icon=github" />
 </a>
+<img src="https://github.com/El-pabs/github-stats-terminal/blob/master/github_stats.svg"
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=El-pabs&theme=default&layout=compact" />
 </a>
-<img src="https://github.com/El-pabs/github-stats-terminal/blob/master/github_stats.svg"
+
 
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
