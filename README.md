@@ -48,10 +48,10 @@
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=El-pabs&count_private=true&show_icons=true&theme=dark&hide=stars,prs,issues&count_private=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=El-pabs&count_private=true&show_icons=true&theme=dark&hide=stars,prs,issues&count_private=true&include_all_commits=true&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=El-pabs&theme=default" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=El-pabs&theme=default&layout=compact" />
 </a>
 
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
