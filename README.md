@@ -8,7 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=El-pabs&style=flat-square)
 
 </p>
-<div size='20px'> Hi! My name is Robin. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Robin I'm a 19 years old IT student. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
@@ -18,11 +18,11 @@
 
 - 🔭 I’m currently working on Github projects, and a lot of things
 
-- 🌱 I’m currently learning IT, javascript, html, css and python 
+- 🌱 I’m currently learning IT, javascript, SQL, html, css and python 
 
 - 👯 I’m looking to collaborate on Anything, i'd love to help you if i'm able to 
 
-- 💬 Talk to me about Python, JavaScript, and every thing about IT 
+- 💬 Talk to me about Python, JavaScript, and every thing about IT. I love to learn thing's don't hesitate to dm me on my discord :) -> el_pablo__
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/El-pabs?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
